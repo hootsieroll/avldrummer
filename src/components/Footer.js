@@ -12,11 +12,19 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
+          <h1 style={{
+            fontSize: '34px',
+            boxShadow:
+              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
+            color: '#CC3700',
+            lineHeight: '1',
+            padding: '0.25em',
+          }}>AVLDrummer</h1>
+          {/* <img
             src={logo}
             alt="Kaldi"
             style={{ width: '14em', height: '10em' }}
-          />
+          /> */}
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
