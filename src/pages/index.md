@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Great drumming with a conscience
 subheading: Support sustainable drumming and the AVL music scene
 mainpitch:
-  title: Why Kaldi
+  title: Why AVLDrummer
   description: >
     AVLDrummer is the ultimate spot for drummers, we need a better description yo!
 description: >-
