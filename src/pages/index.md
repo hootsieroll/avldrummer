@@ -1,15 +1,15 @@
 ---
 templateKey: index-page
 title: Spotlight Asheville Drummers
-image: /img/home-jumbotron.jpg
+image: /img/jorge-illich-gejo-25882-unsplash.jpg
 heading: Great drumming with a conscience
 subheading: Support sustainable drumming and the AVL music scene
 mainpitch:
   title: Why AVLDrummer
   description: >
-    AVLDrummer is the ultimate spot for drummers, we need a better description yo!
-description: >-
-  AVLDrummer is the ultimate spot for drummers
+    AVLDrummer is the ultimate spot for drummers, we need a better description
+    yo!
+description: AVLDrummer is the ultimate spot for drummers
 intro:
   blurbs:
     - image: /img/coffee.png
