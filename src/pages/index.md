@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Spotlight Asheville Drummers
-image: /img/jorge-illich-gejo-25882-unsplash.jpg
+image: /img/drum.gif
 heading: Great drumming with a conscience
 subheading: Support sustainable drumming and the AVL music scene
 mainpitch:
